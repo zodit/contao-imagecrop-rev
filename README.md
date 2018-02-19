@@ -7,4 +7,4 @@ New features added to version 1.0
 - Support for JPG, GIF and PNG files.
 - Italian translation.
 
-All features are included in official version 1.0.2, in the Contao repository: https://contao.org/en/extension-list/fileview/imagecrop.10000009.en.html
+All updates are included in the official module starting from version 1.0.2.
